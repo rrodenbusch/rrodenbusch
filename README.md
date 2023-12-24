@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **rrodenbusch/rrodenbusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Certifications and Badges
+[![ibm-certified-associate-developer-quantum-computation-using-qiskit-v0-2x(3)](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/dd9305bb-1eaa-43b1-bbe5-59d33e53a9f2)](https://www.credly.com/badges/5c4ab370-c589-4091-b32a-387b9022bb20/public_url)
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;[![ibm-quantum-challenge-fall-2022-achievement-advanced(2)](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/152ab788-4132-458a-b9a3-ea6e29a4bf17)](https://www.credly.com/badges/0d932ef0-6ac1-47f7-92b6-10b36a44aa2c/public_url)
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [![ibm-quantum-challenge-spring-2023-achievement](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/0fb9457d-2699-4cfb-a64c-b7b32eaf5345)](https://www.credly.com/badges/00448e5c-59ab-4326-86f3-b8ede2fae66d/public_url)
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [![qiskit-global-summer-school-2023-quantum-excellence](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/216e5d39-4861-4946-85a6-21ffc3aa4c85)](https://www.credly.com/badges/00448e5c-59ab-4326-86f3-b8ede2fae66d/public_url)
 
-
-[![image](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/a50780b5-7655-4645-a463-4e422439c6bf)](https://www.credly.com/badges/5c4ab370-c589-4091-b32a-387b9022bb20/public_url)
