@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![image](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/a50780b5-7655-4645-a463-4e422439c6bf)
+[![image](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/a50780b5-7655-4645-a463-4e422439c6bf)](https://www.credly.com/badges/5c4ab370-c589-4091-b32a-387b9022bb20/public_url)
