@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+![image](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/a50780b5-7655-4645-a463-4e422439c6bf)
