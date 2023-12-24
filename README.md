@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;[![ibm-quantum-challenge-fall-2022-achievement-advanced(2)](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/152ab788-4132-458a-b9a3-ea6e29a4bf17)](https://www.credly.com/badges/0d932ef0-6ac1-47f7-92b6-10b36a44aa2c/public_url)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [![ibm-quantum-challenge-spring-2023-achievement](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/0fb9457d-2699-4cfb-a64c-b7b32eaf5345)](https://www.credly.com/badges/00448e5c-59ab-4326-86f3-b8ede2fae66d/public_url)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; [![qiskit-global-summer-school-2023-quantum-excellence](https://github.com/rrodenbusch/rrodenbusch/assets/20337931/216e5d39-4861-4946-85a6-21ffc3aa4c85)](https://www.credly.com/badges/00448e5c-59ab-4326-86f3-b8ede2fae66d/public_url)
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2)](https://www.linkedin.com/in/rrodenbusch)
